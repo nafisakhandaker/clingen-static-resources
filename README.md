@@ -1,0 +1,1 @@
+# clingen-static-resources
